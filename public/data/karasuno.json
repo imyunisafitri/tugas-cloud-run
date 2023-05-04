@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/Rbtzzcg/image.jpg",
+    "name": "Daichi Sawamura",
+    "position": "Captain"
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/Zzx9zVW/haikyuu-oneshots-koshi-sugawara.jpg",
+    "name": "Kōshi Sugawara",
+    "position": "Vice-Captain"
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/z4rN8gW/Who-is-your-haikyuu-soulmate-Asahi-Azumane.jpg",
+    "name": "Asahi Azumane",
+    "position": "Ace"
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/CPsLHth/image.jpg",
+    "name": "Yū Nishinoya",
+    "position": "Libero"
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/NmxQqv6/image.jpg",
+    "name": "Ryūnosuke Tanaka",
+    "position": "Wing Spiker / Outside Hitter"
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/CWjRG9G/Ennoshita.jpg",
+    "name": "Chikara Ennoshita",
+    "position": "Wing Spiker / Outside Hitter"
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/h9J2s40/Icon-Hisashi-Kinoshita.jpg",
+    "name": "Hisashi Kinoshita",
+    "position": "Wing Spiker / Pinch Server"
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/6g2nR9X/image.jpg",
+    "name": "Kazuhito Narita",
+    "position": "Middle Blocker"
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/2Mygbcb/yoon.jpg",
+    "name": "Tobio Kageyama",
+    "position": "Setter"
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co/1QWSyMN/You-re-Volleyball-To-Me-In-the-middle-of-a-void.jpg",
+    "name": "Shōyō Hinata",
+    "position": "Middle Blocker / Decoy"
+  },
+  {
+    "id": 11,
+    "img": "https://i.ibb.co/6HmSj26/MOOD.jpg",
+    "name": "Kei Tsukishima",
+    "position": "Middle Blocker"
+  },
+  {
+    "id": 12,
+    "img": "https://i.ibb.co/R7F69rC/image.jpg",
+    "name": "Tadashi Yamaguchi",
+    "position": "Middle Blocker / Pinch Server"
+  }
+]
