@@ -1,13 +1,45 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600&display=swap");
+
+:root {
+  --primary: #fea500;
+  --secondary: #191d36;
+  --main: #ffffff;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  background: var(--secondary);
+  color: var(--main);
+  font-family: "Rubik";
+  margin: 0;
+}
+
+/* Navbar */
+header nav {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header nav h2 {
+  border-bottom: 3px solid var(--primary);
+}
+nav a {
+  font-size: 18px;
+  text-decoration: none;
+  padding: 10px;
+  color: var(--primary);
+}
+nav a:hover {
+  border-bottom: 2px solid var(--main);
+}
+nav a:active {
+  color: var(--main);
+}
+
+div h1{
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
