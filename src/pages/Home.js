@@ -3,6 +3,7 @@ import poster from "../assets/img/poster1.png";
 const Home = () => {
   return (
     <div className="home">
+      <h1> New version with continues deployment </h1>
       <div className="p-home-left">
         <h1>Haikkyu Fandom</h1>
         <p>
